@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# Labo Computer Networking
+# ${1:Labo Computer Networking}
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
