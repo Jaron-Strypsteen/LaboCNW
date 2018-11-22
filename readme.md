@@ -1,1 +1,6 @@
-#Labo CNW\n\nDit is het labo *Computer Networks*
+<snippet>
+  <content><![CDATA[
+# Labo Computer Networking
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
